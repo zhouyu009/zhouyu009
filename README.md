@@ -22,17 +22,17 @@
 
 #### ⚡ 有趣的事实：
 - 🏸 我喜欢编程之外的时间和朋友一起打羽毛球。
+--- 
 
 <H1 align="center" style="margin-top: 0; margin-bottom: 0;"> 周宇清 </H1>
-
-<p align="center" style="margin-top: 0; margin-bottom: 0;">18455716598 | 1650387921@qq.com</p>
+<p align="center" style="margin-top: 0; margin-bottom: 0;">184-5571-6598 | 1650387921@qq.com</p>
 <p align="center" style="margin-top: 0; margin-bottom: 0;">安徽宿州 | 在读 | Java</p>
 
 ---
 
 ## 🎓 教育经历
 
-**马鞍山学院** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
+**马鞍山学院** &emsp;&emsp;&emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
 **软件工程** 
 **时间：2024.09 - 2026.07**  
 **相关课程**：数据结构、计算机网络、计算机组成原理、操作系统
